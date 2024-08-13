@@ -5,7 +5,7 @@ const cities = [
     id: "lisbon",
     name: "Lisbon",
     temperature: 21,
-    imgSrc: "./sun.png",
+    imgSrc: "/sun.png",
     imgAlt: "sun",
   },
   {
