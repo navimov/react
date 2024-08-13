@@ -1,5 +1,5 @@
 import "./App.css";
-import logo from "../assets/main-icon.png";
+import logo from "../../public/main-icon.png";
 import Table from "../table/table.jsx";
 
 function App() {
